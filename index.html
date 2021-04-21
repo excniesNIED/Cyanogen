@@ -26,9 +26,23 @@
 <head>
 <meta charset="UTF-8" >
 <title>Processing  your  request......</title>
+</head>
+<body>
+<script type="text/javascript">
+        function countDown(secs, surl) {
+            var jumpTo = document.getElementById('jumpTo');
+            jumpTo.innerHTML = secs;
+            if (--secs > 0) {
+                setTimeout("countDown(" + secs + ",'" + surl + "')", 1000);
+            }
+            else {
+                location.href = surl;
+            }
+        }    
+</script>
 <div>
 <br><br><br><br><br>
-<center>Cyanogen社区</center><br>
+<center><h1>Cyanogen社区</center></h1><br>
 <center>即将跳转，之后社区加载速度可能较慢，请耐心等待</center>
 <br><br>
 <center>正在进行预加载：<span id="jumpTo">3</span>秒<br><br>
