@@ -34,3 +34,5 @@
     <link rel="icon" type="image/x-icon" href="http://82.156.206.121/storage/favicon.png">
     <title>Cyanogen社区 - 创造当下，拥抱未来</title>
     <h1>Cyanogen社区</h1>
+    <p>以吾之理想，创造当下，拥抱未来。</p><p>如果有缘分，期待我们重逢</p>
+   
