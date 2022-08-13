@@ -35,6 +35,6 @@
     <title>Cyanogen社区 - 创造当下，拥抱未来</title>
     <h1>Cyanogen社区</h1>
     <p>以吾之理想，创造当下，拥抱未来。</p><p>如果有缘分，期待我们重逢</p>
-   <p>友情链接&nbsp;&nbsp;<a href="http://ed.qcea.top">猹盘</a>&nbsp;&nbsp;<a href="https://tcea.top">白鼠的小站</a>&nbsp;&nbsp;<a href="http://hao.qcea.top">小湖边的草园子</a>
+   <p>友情链接&nbsp;&nbsp;<a href="http://ed.qcea.top">猹盘</a>&nbsp;&nbsp;<a href="https://tcea.top">白鼠的小站</a>
      <p>站长&nbsp;&nbsp;萑卨澈苶&nbsp;&nbsp;白鼠</p>
     <p>友情链接：<a href="https://qm.qq.com/cgi-bin/qm/qr?k=45_yXIe0wqa3U3HOcV1ww2pMB2zXkHuh&jump_from=webapi">点击这里加入QQ群</a></p>
